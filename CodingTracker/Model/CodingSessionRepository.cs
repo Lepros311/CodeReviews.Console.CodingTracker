@@ -1,9 +1,7 @@
-﻿using System.Configuration;
-using System.Data.SQLite;
+﻿using System.Data.SQLite;
 using Dapper;
 using System.Globalization;
 using System;
-using System.Security.Cryptography;
 
 namespace CodingTracker.Model
 {
